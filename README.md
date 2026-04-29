@@ -11,8 +11,14 @@ Interactive wheel spinner for randomly picking tonight's dinner! Spin for quick 
 
 ## Live Demo
 View on [GitHub Pages](https://tracywlan.github.io/dinner-wheel-spinner/)  
-*(Enable in repo Settings > Pages > Source: Deploy from branch `main`)*[web:90]
+*(Enable in repo Settings > Pages > Source: Deploy from branch `main`)*
 
 ![spinner](image.png)
 
-Similar vibrant spinner in action—yours has custom dinners![web:59]
+## 🎨 Customization
+- **Add meals**: Append to `options` array in `data.js`, add matching color to `COLORS`.
+- **Change colors**: Update hex values in `COLORS`.
+
+
+> Fork, customize, and never argue over dinner again! 🍕🍜
+
