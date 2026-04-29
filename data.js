@@ -1,4 +1,4 @@
-const options = ["Pizza","Sushi","Burgers","Tacos","HeyNoods","Pho","Ramen","Malatang","Hotpot","Yakiniku","Tonkatsu","Shelby's","Sichuan Food","Fried Chicken","Cook at home","Dim Sum","Skewers","Bibimbap","Thai Curry","Pad See Ew","Chicken Rice","Braised Pork","Rich Noodles","Xiao Long Bao","Roast Duck","Magic Noodles","Dumplings","Steak","Fish & Chips","Butter Chicken"];
+const options = ["Pizza","Sushi","Burgers","Tacos","HeyNoods","Pho","Ramen","Malatang","Hotpot","Yakiniku","Tonkatsu","Shelby's","Sichuan Food","Fried Chicken","Cook at home","Dim Sum","Skewers","Bibimbap","Thai Curry","Subway","CCT","Grilled Fish","Rice Noodles","Xiao Long Bao","Roast Duck","Magic Noodles","Dumplings","Steak","Fish & Chips","Butter Chicken"];
 
 const COLORS = [
   "#FFB3BA", "#FFDFBA", "#FFFFBA", "#BAFFC9", "#BAE1FF",
